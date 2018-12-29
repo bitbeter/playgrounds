@@ -9,5 +9,5 @@ git submodule foreach git pull origin master
 ### For add some submodule to project
 ```bash
 # add some git url to its course folder.
-git add <Git Url> <Project Folder>
+git submodule add <Git Url> <Project Folder>
 ```
