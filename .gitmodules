@@ -1,3 +1,4 @@
 [submodule "react-native-performance"]
 	path = react-native-performance
 	url = https://github.com/bitbeter/playground-react-native-performance
+	branch = master
