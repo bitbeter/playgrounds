@@ -9,5 +9,5 @@ git submodule update --recursive --remote
 ### For add some submodule to project
 ```bash
 # add some git url to its course folder.
-git submodule add -b master <Git Url> <Course>/<CA_Number>
+git submodule add -b master <Git Url> <Project Name>
 ```
