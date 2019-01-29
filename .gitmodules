@@ -6,3 +6,7 @@
 	path = nativescript-performance
 	url = https://github.com/bitbeter/playground-nativescript-performance
 	branch = master
+[submodule "typescript-design-pattern"]
+	path = typescript-design-pattern
+	url = https://github.com/bitbeter/playground-typescript-design-pattern
+	branch = master
